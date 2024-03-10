@@ -118,7 +118,7 @@ footer {
     text-align: center;
 }
 
-/* .chome {
+.chome {
     margin-top: 15rem;
 }
 
@@ -132,7 +132,7 @@ footer {
 
 .c15 {
     margin-top: 15rem;
-} */
+}
 
 @media (max-width: 600px) {
     
@@ -148,5 +148,21 @@ footer {
 
     .header-container {
         height: 9rem;
+    }
+
+    .chome {
+        margin-top: 13rem;
+    }
+    
+    .c13 {
+        margin-top: 13rem;
+    }
+    
+    .c14 {
+        margin-top: 13rem;
+    }
+    
+    .c15 {
+        margin-top: 13rem;
     }
 }
