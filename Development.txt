@@ -4,3 +4,5 @@ page 4 add without content. Development.txt for documentation purposes add.
 Commit 2 : Page 2 HTML with comments and classes add. navbar add.
 
 commit 3 : Page 3 HTML with comments and classes add. navbar add.
+
+commit 4 : Page 4 HTML with comments and classes add. navbar add.
