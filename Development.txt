@@ -1,1 +1,6 @@
-Commit 1 : 
+Commit 1 : Home page HTML with comments, navbar and classes add. Page 2, page 3,
+page 4 add without content. Development.txt for documentation purposes add.
+
+Commit 2 : Page 2 HTML with comments and classes add. navbar add.
+
+commit 3 : 
