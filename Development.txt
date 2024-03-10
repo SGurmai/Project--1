@@ -10,3 +10,5 @@ commit 4 : Page 4 HTML with comments and classes add. navbar add.
 commit 5 : Basic CSS for Header, navbar, text, and footer add. Home page H1 typo fix.
 
 commit 6 : All pixel change to rem. Body margin-top from CSS delete and separately add for all pages.
+
+commit 7 : Custom font add. Background-color replace background-image. Header text change. Pictures to media folder add. Font-family add.
