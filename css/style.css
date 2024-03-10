@@ -1,0 +1,102 @@
+/* Margin for the site */
+
+body{
+    margin: 50px;
+    padding: 0;
+}
+
+/* background for the header */
+
+.header-container {
+    background-color: lightgrey;
+    position: fixed;
+    height: 180px;
+    right: 10px;
+    left: 10px;
+    top: 0px;
+    z-index: 2;
+}
+
+/* Position and size of the site's name */
+
+.header {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Colour and position of the navigation bar */
+
+.navbar {
+    background-color: #333;
+    display: inline-block;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center
+}
+
+/* Colour, alignment and padding of the navigation buttons */
+
+.navbar a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+/* Changes the navigation buttons background, colour and font style when hovered over */
+
+.navbar a:hover {
+    background-color: red;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Size and style changes for paragraph,header 1 , header 2, section 2 and list elements */
+
+p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: Medieval;
+}
+
+.h2_main{
+    font-size: 80px;
+}
+
+.h1{
+    text-align: center;
+    font-family: Medieval;
+    font-size: 80px;
+}
+
+li {
+    font-size: 25px;
+}
+
+.section2>p {
+    padding-bottom: 60px;
+}
+
+/* Background colour, position, opacity and size of the footer with font size and colour for the content inside it */
+
+footer {
+    background-color: black;
+    color: #ffffff;
+    width: 100%;
+    box-sizing: border-box;
+    opacity: 0.5;
+    display: flex;
+    font-size: 5px;
+    justify-content: center;
+    text-align: center;
+}

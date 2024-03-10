@@ -6,3 +6,5 @@ Commit 2 : Page 2 HTML with comments and classes add. navbar add.
 commit 3 : Page 3 HTML with comments and classes add. navbar add.
 
 commit 4 : Page 4 HTML with comments and classes add. navbar add.
+
+commit 5 : Basic CSS for Header, navbar, text, and footer add. Home page H1 typo fix. 
