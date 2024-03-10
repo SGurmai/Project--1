@@ -12,3 +12,5 @@ commit 5 : Basic CSS for Header, navbar, text, and footer add. Home page H1 typo
 commit 6 : All pixel change to rem. Body margin-top from CSS delete and separately add for all pages.
 
 commit 7 : Custom font add. Background-color replace background-image. Header text change. Pictures to media folder add. Font-family add.
+
+commit 8 : content remove for restructure.
