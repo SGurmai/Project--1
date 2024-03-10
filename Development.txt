@@ -14,3 +14,5 @@ commit 6 : All pixel change to rem. Body margin-top from CSS delete and separate
 commit 7 : Custom font add. Background-color replace background-image. Header text change. Pictures to media folder add. Font-family add.
 
 commit 8 : content remove for restructure.
+
+commit 9 : Unused CSS rules remove. Navbar hover colour change. style change.
