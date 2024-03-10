@@ -20,3 +20,5 @@ commit 9 : Unused CSS rules remove. Navbar hover colour change. style change.
 commit 10 : Footer change. Media query add. Home page button remove return to home page function is add to H1.
 
 commit 11 : Footer rework. Content add.
+
+commit 12 : Footer classes and partial style add.
