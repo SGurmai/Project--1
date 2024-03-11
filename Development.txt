@@ -29,4 +29,6 @@ commit 14 : Footer H2 change to H4.
 
 commit 15 : Comment remove. Content add.
 
-commit 16 : Border colours and width change. Section margin full screen and another 2 query margin for the same margin add.
+commit 16 : Border colours and width change. Section margin full screen and another 2 query for the same margin add.
+
+commit 17 : Broken nav links fix. Background, colour, border change. 
