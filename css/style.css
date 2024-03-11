@@ -2,6 +2,7 @@
 
 body {
     background-color: grey;
+
 }
 
 /* Custom font family */
@@ -67,6 +68,9 @@ body {
     width: 100%;
     text-align: center;
     border-radius: 0 0 3.125rem 3.125rem;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 0.10rem;
 }
 
 /* Colour, alignment and padding of the navigation buttons */
@@ -99,11 +103,12 @@ body {
 }
 
 h1:hover {
+    color: white;
     text-shadow:
-        -1px -1px 0 #ff0000,  
-        1px -1px 0 #ff0000,
-        -1px 1px 0 #ff0000,
-        1px 1px 0 #ff0000;
+        -1px -1px 0 #000000,  
+        1px -1px 0 #000000,
+        -1px 1px 0 #000000,
+        1px 1px 0 #000000;
         cursor: pointer;
 }
 
@@ -132,18 +137,27 @@ h1:hover {
     background-color: rgb(0, 0, 0);
     color: white;
     border-radius: 4rem;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 0.10rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
 }
 
 .section2 {
     background-color: rgb(250, 250, 250);
     color: black;
     border-radius: 4rem;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 0.10rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
 }
 
 /* Background colour, position, opacity and size of the footer with font size and colour for the content inside it */
 
 .footer {
-    position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
@@ -199,7 +213,42 @@ h1:hover {
     margin-top: 15rem;
 }
 
+@media (min-width: 901px) and (max-width: 1400px) {
+    
+    .section1 {
+        margin-left: 13rem;
+        margin-right: 13rem;
+    }
+
+    .section2 {
+        margin-left: 13rem;
+        margin-right: 13rem;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+    
+    .section1 {
+        margin-left: 5rem;
+        margin-right: 5rem;
+    }
+    .section2 {
+        margin-left: 5rem;
+        margin-right: 5rem;
+    }
+}
+
 @media (max-width: 600px) {
+    
+    .section1 {
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+
+    .section2 {
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
     
     .h1{
         text-align: center;
@@ -244,4 +293,5 @@ h1:hover {
         max-width: none;
         padding: 0.5rem;
     }
+
 }
