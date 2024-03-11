@@ -32,3 +32,5 @@ commit 15 : Comment remove. Content add.
 commit 16 : Border colours and width change. Section margin full screen and another 2 query for the same margin add.
 
 commit 17 : Broken nav links fix. Background, colour, border change. 
+
+commit 18 : Minor CSS change. Unused code remove. Image Cards add. 3 images add.
