@@ -153,20 +153,18 @@ img {
 
 .section1 {
     color: rgb(255, 255, 255);
-    /* border-color: rgb(255, 255, 255); */
-    /* border-style: solid; */
-    /* border-width: 0.10rem; */
     margin-left: 20rem;
     margin-right: 20rem;
 }
 
 .section2 {
     color: rgb(255, 255, 255);
-    /* border-color: rgb(255, 255, 255); */
-    /* border-style: solid; */
-    /* border-width: 0.10rem; */
     margin-left: 20rem;
     margin-right: 20rem;
+}
+
+.section3 {
+    color: rgb(255, 255, 255);
 }
 
 /*  */
@@ -302,8 +300,12 @@ button:hover {
         font-size: 0.75rem;
     }
 
+    .section3 {
+        font-size: 0.75rem;
+    }
+
     img {
-        width: 130%;
+        width: 120%;
     }
 }
 
@@ -317,6 +319,13 @@ button:hover {
     .section2 {
         margin-left: 0.5rem;
         margin-right: 0.3rem;
+    }
+
+    .audio-player {
+        position: fixed;
+        top: 11rem;
+        right: 0;
+        z-index: 9999;
     }
     
     .h1{
