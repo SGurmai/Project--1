@@ -22,3 +22,5 @@ commit 10 : Footer change. Media query add. Home page button remove return to ho
 commit 11 : Footer rework. Content add.
 
 commit 12 : Footer classes and partial style add.
+
+commit 13 : Footer bug fix. Background colour add. few comments add.

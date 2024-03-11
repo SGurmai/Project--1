@@ -1,3 +1,9 @@
+/* Background colour */
+
+body {
+    background-color: grey;
+}
+
 /* Custom font family */
 
 @font-face{
@@ -37,7 +43,7 @@
         1px 1px 0 #ffffff;
 }
 
-/*  */
+/* Header background-image */
 
 .header-container::before {
     content: "";
@@ -106,6 +112,7 @@ h1:hover {
 .footer {
     position: fixed;
     bottom: 0;
+    left: 0;
     width: 100%;
     background-color: #000000;
     color: #ffffff;
@@ -140,6 +147,8 @@ h1:hover {
     text-align: center;
     margin-top: 0.25rem;
 }
+
+
 
 .chome {
     margin-top: 15rem;
