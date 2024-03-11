@@ -26,3 +26,5 @@ commit 12 : Footer classes and partial style add.
 commit 13 : Footer bug fix. Background colour add. few comments add.
 
 commit 14 : Footer H2 change to H4. 
+
+commit 15 : Comment remove. Content add.

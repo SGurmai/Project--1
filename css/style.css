@@ -107,6 +107,39 @@ h1:hover {
         cursor: pointer;
 }
 
+.split {
+    display: flex;
+    gap: 7rem;
+    flex-direction: row;
+}
+
+.split > * {
+    flex-basis: 100%;
+}
+
+.container {
+    margin-inline: auto;
+    width: min(90%, 70.5rem);
+    padding: 1rem;
+}
+
+.text-center {
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.section1 {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 4rem;
+}
+
+.section2 {
+    background-color: rgb(250, 250, 250);
+    color: black;
+    border-radius: 4rem;
+}
+
 /* Background colour, position, opacity and size of the footer with font size and colour for the content inside it */
 
 .footer {
@@ -197,6 +230,18 @@ h1:hover {
     .footer-info {
         flex: none;
         width: 100%;
-        margin-bottom: 0.25rem; /* Further reduced margin */
+        margin-bottom: 0.25rem;
+    }
+
+    .split {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .container {
+        width: 90%;
+        max-width: none;
+        padding: 0.5rem;
     }
 }
