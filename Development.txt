@@ -48,3 +48,6 @@ commit 23 : Image positioning in the divs in smaller screen size fix.
 commit 24 : Missing CSS comment fix. Image change and add. Page 2 Audio add.
 
 commit 25 : H1-alt change to H2-alt. Section class change to section-type for simple use.
+
+commit 26 : CSS rule add to correct the position of h2 and p of the first 2 section on bigger screen size.
+3 class deleted from the HTML.
