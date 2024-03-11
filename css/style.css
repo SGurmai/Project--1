@@ -114,16 +114,22 @@ h1:hover {
 
 .h2 {
     color: #ffffff;
+    text-align: center;
 }
 
 .split {
     display: flex;
     gap: 7rem;
     flex-direction: row;
+    flex-basis: 100%;
 }
 
 .split > * {
     flex-basis: 100%;
+}
+
+img {
+    width: 100%;
 }
 
 .container {
@@ -139,18 +145,18 @@ h1:hover {
 
 .section1 {
     color: rgb(255, 255, 255);
-    border-color: rgb(255, 255, 255);
-    border-style: solid;
-    border-width: 0.10rem;
+    /* border-color: rgb(255, 255, 255); */
+    /* border-style: solid; */
+    /* border-width: 0.10rem; */
     margin-left: 20rem;
     margin-right: 20rem;
 }
 
 .section2 {
     color: rgb(255, 255, 255);
-    border-color: rgb(255, 255, 255);
-    border-style: solid;
-    border-width: 0.10rem;
+    /* border-color: rgb(255, 255, 255); */
+    /* border-style: solid; */
+    /* border-width: 0.10rem; */
     margin-left: 20rem;
     margin-right: 20rem;
 }
@@ -169,6 +175,7 @@ h1:hover {
 .card img {
     width: 100%;
     height: auto;
+    border-radius: 3rem;
 }
 
 /* Background colour, position, opacity and size of the footer with font size and colour for the content inside it */
@@ -240,6 +247,10 @@ h1:hover {
         margin-left: 10rem;
         margin-right: 10rem;
     }
+
+    img {
+        width: 100%;
+    }
 }
 
 @media (min-width: 601px) and (max-width: 900px) {
@@ -247,10 +258,16 @@ h1:hover {
     .section1 {
         margin-left: 5rem;
         margin-right: 5rem;
+        font-size: 0.75rem;
     }
     .section2 {
         margin-left: 5rem;
         margin-right: 5rem;
+        font-size: 0.75rem;
+    }
+
+    img {
+        width: 130%;
     }
 }
 

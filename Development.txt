@@ -34,3 +34,5 @@ commit 16 : Border colours and width change. Section margin full screen and anot
 commit 17 : Broken nav links fix. Background, colour, border change. 
 
 commit 18 : Minor CSS change. Unused code remove. Image Cards add. 3 images add.
+
+commit 19 : Border remove. additional image add. Index.HTML content redesign.
