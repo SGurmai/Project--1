@@ -101,7 +101,7 @@ body {
     color: rgb(0, 0, 0);
 }
 
-.h1-alt{
+.h2-alt{
     text-align: center;
     font-family: Medieval;
     font-size: 5rem;
@@ -163,19 +163,19 @@ img {
     padding: 1rem;
 }
 
-.section1 {
+.section-type1 {
     color: rgb(255, 255, 255);
     margin-left: 20rem;
     margin-right: 20rem;
 }
 
-.section2 {
+/* .section-type2 {
     color: rgb(255, 255, 255);
     margin-left: 20rem;
     margin-right: 20rem;
-}
+} */
 
-.section3 {
+.section-type3 {
     color: rgb(255, 255, 255);
 }
 
@@ -284,12 +284,12 @@ button:hover {
 
 @media (min-width: 901px) and (max-width: 1400px) {
     
-    .section1 {
+    .section-type1 {
         margin-left: 10rem;
         margin-right: 10rem;
     }
 
-    .section2 {
+    .section-type2 {
         margin-left: 10rem;
         margin-right: 10rem;
     }
@@ -303,18 +303,18 @@ button:hover {
 
 @media (min-width: 601px) and (max-width: 900px) {
     
-    .section1 {
+    .section-type1 {
         margin-left: 5rem;
         margin-right: 5rem;
         font-size: 0.75rem;
     }
-    .section2 {
+    .section-type2 {
         margin-left: 5rem;
         margin-right: 5rem;
         font-size: 0.75rem;
     }
 
-    .section3 {
+    .section-type3 {
         font-size: 0.75rem;
     }
 
@@ -327,12 +327,12 @@ button:hover {
 
 @media (max-width: 600px) {
     
-    .section1 {
+    .section-type1 {
         margin-left: 0.5rem;
         margin-right: 0.3rem;
     }
 
-    .section2 {
+    .section-type2 {
         margin-left: 0.5rem;
         margin-right: 0.3rem;
     }

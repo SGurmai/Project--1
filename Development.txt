@@ -46,3 +46,5 @@ commit 22 : Audio position fix in queries. Section 3 redesign. Unused code remov
 commit 23 : Image positioning in the divs in smaller screen size fix.
 
 commit 24 : Missing CSS comment fix. Image change and add. Page 2 Audio add.
+
+commit 25 : H1-alt change to H2-alt. Section class change to section-type for simple use.
