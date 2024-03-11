@@ -363,7 +363,17 @@ button:hover {
     .split {
         display: flex;
         flex-direction: column;
+        align-items: center;
         gap: 1rem;
+    }
+
+    .split > * {
+        width: 100%;
+    }
+
+    img {
+        margin: 0 auto;
+        display: block;
     }
 
     .container {

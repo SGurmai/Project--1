@@ -42,3 +42,5 @@ commit 20 : Footer border add. Image scale change. Additional content for the Ho
 commit 21 : Audio add with control button. CSS and Javascript for the audio.
 
 commit 22 : Audio position fix in queries. Section 3 redesign. Unused code remove.
+
+commit 23 : Image positioning in the divs in smaller screen size fix.
