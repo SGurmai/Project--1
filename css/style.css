@@ -63,10 +63,6 @@ body {
 
 .header-container-2, .header-container-helmet, .header-container-chest {
     position: relative;
-    height: 11.25rem;
-    right: 0.625rem;
-    left: 0.625rem;
-    top: 0rem;
     z-index: 0;
 }
 
@@ -433,11 +429,12 @@ button:hover {
         margin-right: 5rem;
         font-size: 0.75rem;
     }
-    .section-type2 {
+
+    /* .section-type2 {
         margin-left: 5rem;
         margin-right: 5rem;
         font-size: 0.75rem;
-    }
+    } */
 
     .section-type3 {
         font-size: 0.75rem;
@@ -477,6 +474,7 @@ button:hover {
 
     .header-container {
         height: 9rem;
+        max-width: 100%;
     }
 
     .chome {
@@ -508,11 +506,11 @@ button:hover {
 
     .div1 {
         order: 1;
-      }
+    }
     
-      .div2 {
+    .div2 {
         order: 2;
-      }
+    }
 
     img {
         margin: 0 auto;

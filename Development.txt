@@ -73,3 +73,5 @@ commit 35 : CSS for page 2 chest armor h2 background add. images for helmets add
 commit 36 : Page 2 chest armor section name, description, image add.
 
 commit 37 : Page 2 last paragraph add. Div 1, div 2 classes fix. Unused rule remove. Rule to reposition divs in mobile view add.
+
+commit 38 : Page 2 audio links fix. Unused code remove. Page 3 script link and audio add.
