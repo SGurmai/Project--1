@@ -53,3 +53,5 @@ commit 26 : CSS rule add to correct the position of h2 and p of the first 2 sect
 3 class deleted from the HTML.
 
 commit 27 : Disclaimer button HTML, CSS and disclaimer page add.
+
+commit 28 : Disclaimer link fix. Disclaimer.html header and footer add.
