@@ -65,3 +65,5 @@ commit 31 : Page 2 chest armor section with comments add. Names and description 
 commit 32 : class fix and image add.
 
 commit 33 : H2 background and new design add built from the H1 design. Paragraph text extented.
+
+commit 34 : CSS change. Header-helmet background for all 3 page helmet h2 add.
