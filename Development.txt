@@ -51,3 +51,5 @@ commit 25 : H1-alt change to H2-alt. Section class change to section-type for si
 
 commit 26 : CSS rule add to correct the position of h2 and p of the first 2 section on bigger screen size.
 3 class deleted from the HTML.
+
+commit 27 : Disclaimer button HTML, CSS and disclaimer page add.

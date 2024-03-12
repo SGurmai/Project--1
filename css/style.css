@@ -277,6 +277,26 @@ button:hover {
     margin-top: 0.25rem;
 }
 
+.footer-disclaimer {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.disclaimer-button {
+    background-color: red;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    display: inline-block;
+}
+
+.disclaimer-button:hover {
+    background-color: darkred;
+}
+
 /* Margin for every first section to avoid getting under the header */
 
 .chome {
@@ -411,6 +431,19 @@ button:hover {
         width: 90%;
         max-width: none;
         padding: 0.5rem;
+    }
+
+    .footer-info {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-disclaimer {
+        margin-top: 2rem;
+    }
+
+    .disclaimer-button {
+        margin-top: 1rem;
     }
 
 }
