@@ -59,15 +59,11 @@ body {
     z-index: -1;
 }
 
-/* background for the header 2 */
+/* background for all the headers after the main one */
 
-.header-container-2, .header-container-helmet, .header-container-chest {
+.header-container-2, .header-container-3, .header-container-4, .header-container-helmet, .header-container-chest {
     position: relative;
     z-index: 0;
-}
-
-.header-container-2 a {
-    text-decoration: none;
 }
 
 /* Position and size of header 2 */
@@ -102,7 +98,71 @@ body {
     z-index: -1;
 }
 
+/* Position and size of header 3 */
+
+.header-3 {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Medieval;
+    color: #000000;
+    text-shadow:
+        -1px -1px 0 #ffffff,  
+        1px -1px 0 #ffffff,
+        -1px 1px 0 #ffffff,
+        1px 1px 0 #ffffff;
+}
+
 /* Header 3 background-image  */
+
+.header-container-3::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../media/armorNS2.png);
+    background-size: cover;
+    opacity: 0.95; 
+    z-index: -1;
+}
+
+/* Position and size of header 4 */
+
+.header-4 {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Medieval;
+    color: #000000;
+    text-shadow:
+        -1px -1px 0 #ffffff,  
+        1px -1px 0 #ffffff,
+        -1px 1px 0 #ffffff,
+        1px 1px 0 #ffffff;
+}
+
+/* Header 4 background-image  */
+
+.header-container-4::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../media/armorNS4.png);
+    background-size: cover;
+    opacity: 0.95; 
+    z-index: -1;
+}
+
+/* Background-image for helmet, chest armor headers */
 
 .header-container-helmet::before {
     content: "";
