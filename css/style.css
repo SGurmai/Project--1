@@ -385,19 +385,7 @@ button:hover {
 
 /* Margin for every first section to avoid getting under the header */
 
-.chome {
-    margin-top: 15rem;
-}
-
-.c13 {
-    margin-top: 15rem;
-}
-
-.c14 {
-    margin-top: 15rem;
-}
-
-.c15 {
+.first-section {
     margin-top: 15rem;
 }
 
@@ -477,19 +465,7 @@ button:hover {
         max-width: 100%;
     }
 
-    .chome {
-        margin-top: 13rem;
-    }
-    
-    .c13 {
-        margin-top: 13rem;
-    }
-    
-    .c14 {
-        margin-top: 13rem;
-    }
-    
-    .c15 {
+    .first-section {
         margin-top: 13rem;
     }
 
