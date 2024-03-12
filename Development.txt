@@ -57,3 +57,5 @@ commit 27 : Disclaimer button HTML, CSS and disclaimer page add.
 commit 28 : Disclaimer link fix. Disclaimer.html header and footer add.
 
 commit 29 : Disclaimer CSS link fix.
+
+commit 30 : Disclaimer class and content with comment add. Page 2 Helmet section with classes add.
