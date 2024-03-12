@@ -79,3 +79,5 @@ commit 38 : Page 2 audio links fix. Unused code remove. Page 3 script link and a
 commit 39 : Page 3-4 helmet and chest armor section with classes and without content add. First section of each page top-margin class simplified.
 
 commit 40 : Unused code remove. Page 3-4 title bakcground add.
+
+commit 41 : Additional query (1250-1500) and margin change for better size in every screen size.
