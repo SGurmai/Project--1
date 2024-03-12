@@ -69,3 +69,5 @@ commit 33 : H2 background and new design add built from the H1 design. Paragraph
 commit 34 : CSS change. Header-helmet background for all 3 page helmet h2 add.
 
 commit 35 : CSS for page 2 chest armor h2 background add. images for helmets add.
+
+commit 36 : Page 2 chest armor section name, description, image add.
