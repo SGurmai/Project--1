@@ -210,6 +210,11 @@ h3 {
     font-size: 1.5rem;
 }
 
+.desc {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
 /* Split class divs configuration */
 
 .split {
@@ -490,12 +495,6 @@ button:hover {
         margin-top: 13rem;
     }
 
-    .footer-info {
-        flex: none;
-        width: 100%;
-        margin-bottom: 0.25rem;
-    }
-
     .split {
         display: flex;
         flex-direction: column;
@@ -506,6 +505,14 @@ button:hover {
     .split > * {
         width: 100%;
     }
+
+    .div1 {
+        order: 1;
+      }
+    
+      .div2 {
+        order: 2;
+      }
 
     img {
         margin: 0 auto;
@@ -519,8 +526,9 @@ button:hover {
     }
 
     .footer-info {
-        flex-direction: column;
-        align-items: center;
+        flex: none;
+        width: 100%;
+        margin-bottom: 0.25rem;
     }
 
     .footer-disclaimer {
