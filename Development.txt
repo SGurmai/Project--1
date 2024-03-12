@@ -61,3 +61,5 @@ commit 29 : Disclaimer CSS link fix.
 commit 30 : Disclaimer class and content with comment add. Page 2 Helmet section with classes add.
 
 commit 31 : Page 2 chest armor section with comments add. Names and description for helmets add.
+
+commit 32 : class fix and image add.
