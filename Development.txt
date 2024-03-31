@@ -85,3 +85,5 @@ commit 41 : Additional query (1250-1500) and margin change for better size in ev
 commit 42 : Add base structure for page 3 and 4 with class
 
 commit 43 : Add all text content for page 3
+
+commit 44 : Add all text content for page 4
