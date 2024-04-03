@@ -5,7 +5,6 @@ Welcome to the Evolution of Medieval Armor project! This project delves into the
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [How to Use](#how-to-use)
 - [Credits](#credits)
 - [License](#license)
@@ -21,10 +20,6 @@ The Evolution of Medieval Armor project offers a comprehensive exploration of ar
 - Rich historical context to understand the evolution of armor.
 - High-quality images to accompany textual descriptions.
 - Responsive design for seamless viewing across devices.
-
-## Screenshots
-
-![Screenshot](/media/readme.png)
 
 
 ## How to Use
