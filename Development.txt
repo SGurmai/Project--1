@@ -93,3 +93,5 @@ commit 45 : Remove 14th century helmet option and additional images
 commit 46 : Fix footer put to the middle
 
 commit 47 : Fix stray end tags removed from line 102 and 194
+
+commit 48 : Fix sections changed to div
