@@ -601,6 +601,10 @@ button:hover {
         padding: 0.5rem;
     }
 
+    .footer-top {
+        justify-content: center;
+    }
+
     .footer-info {
         flex: none;
         width: 100%;

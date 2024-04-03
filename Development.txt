@@ -89,3 +89,5 @@ commit 43 : Add all text content for page 3
 commit 44 : Add all text content for page 4
 
 commit 45 : Remove 14th century helmet option and additional images
+
+commit 46 : Fix footer put to the middle
