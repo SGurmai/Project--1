@@ -24,7 +24,8 @@ The Evolution of Medieval Armor project offers a comprehensive exploration of ar
 
 ## Screenshots
 
-![Screenshot](readme.png)
+![Screenshot](/media/readme.png)
+
 
 ## How to Use
 
